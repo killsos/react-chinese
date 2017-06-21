@@ -1,0 +1,7 @@
+{
+    "bookname": "react---chinese",
+    "catalog": "all",  
+    "ignores": ["node_modules"],
+    "unchanged": [],
+    "sortedBy": "-"
+}
